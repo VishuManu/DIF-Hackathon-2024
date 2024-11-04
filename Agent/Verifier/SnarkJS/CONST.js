@@ -1,0 +1,1 @@
+export const SHA_PREIMAGE_PROOF = "digest_pre_image_proof"

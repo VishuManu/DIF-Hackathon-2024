@@ -1,0 +1,6 @@
+GOAL_INVITATION = "iden.invitation"
+PEER_EXCHANGE_AND_ACCEPT_INVITATION = "iden.save_peer_and_accept_invite"
+ASK_PRESENTATION = "iden.presentation"
+SEND_PRESENTATION_TYPE = "iden.send_presentation"
+ASK_ZKP = "iden.ask_zkp"
+SEND_CREDENTIAL = "iden.send_credential"

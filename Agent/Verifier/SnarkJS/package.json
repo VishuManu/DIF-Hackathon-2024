@@ -1,0 +1,18 @@
+{
+  "name": "prover_holder",
+  "version": "1.0.0",
+  "main": "snark_setup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.1",
+    "path": "^0.12.7",
+    "poseidon-lite": "^0.3.0",
+    "snarkjs": "^0.7.5"
+  }
+}
