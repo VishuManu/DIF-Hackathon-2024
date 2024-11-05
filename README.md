@@ -1,1 +1,1 @@
-![Whole Procedure in a nutshell](https://i.imgur.com/tF6NNdX.png)
+![Whole Procedure in a nutshell](https://i.imgur.com/WCzMso8.png)
